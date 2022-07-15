@@ -1,0 +1,7 @@
+EVICT_POLICY = 'RANDOM' # Implemented: random, fifo
+MAX_ADDR = 65536
+T_RH = 50000
+W = 1360000
+
+MC_BUFFER_SIZE = 8
+MC_SCH_POLICY = 'RowOpenish'
